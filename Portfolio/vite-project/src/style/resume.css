@@ -1,0 +1,37 @@
+.resume-section {
+    padding: 2rem;
+    background: #f9f9f9;
+    /* text-align: center; */
+}
+
+.resume-section h2 {
+    margin: 0 0 1rem;
+    color: #2b5176;
+    padding-bottom: 15px;
+    font-size: 1.3rem;
+}
+
+.resume-download .btn {
+    margin: 12rem 0;
+    padding: 10px 20px;
+    background: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.resume-download .btn:hover {
+    background: #0056b3;
+}
+
+.proficiencies ul {
+    list-style-type: square;
+    padding: 0;
+    margin: 0;
+}
+
+.proficiencies li {
+    margin: 0.5rem 0;
+    font-size: 1rem;
+    display: list-item; /* Ensures items stay in a vertical list */
+}
