@@ -1,8 +1,5 @@
 import React from 'react';
 import '../style/footer.css';
-import gmail from '../assets/gmail.png';
-import github from '../assets/github.png';
-import linkedin from '../assets/linked.png';
 <assets />
 
 function Footer() {
