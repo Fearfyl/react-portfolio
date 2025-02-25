@@ -1,5 +1,4 @@
 import React from 'react';
-import Profile from '../assets/UserProfile.png';
 import '../style/about.css';
 
 const About = () => (
