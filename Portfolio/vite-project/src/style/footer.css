@@ -1,0 +1,20 @@
+footer {
+    background-color: var(--text-color);
+    color: white;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 100;
+}
+
+li {
+    display: inline-block;
+    margin: 0 10px;
+    list-style-type: none;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
