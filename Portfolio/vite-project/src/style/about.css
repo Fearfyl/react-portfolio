@@ -1,0 +1,33 @@
+:root {
+    --primary: #f8f9fa; /* Light gray */
+    --secondary: #007bff; /* Blue */
+    --text-color: #2b5176; /* Dark blue */
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: var(--primary);
+    color: var(--text-color);
+}
+
+.pimage {
+    object-fit: cover;
+    margin: 10px;
+    transition: ease-in 10s;
+}
+
+h2 {
+    font-size: 2rem;
+    margin: 1.5rem 0 0 2rem;
+    color: var(--text-color);
+    font-weight: bold;
+}
+
+p {
+    font-size: 1.2rem;
+    margin-left: 2rem;
+    color: var(--text-color);
+}
