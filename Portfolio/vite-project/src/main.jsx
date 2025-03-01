@@ -7,7 +7,7 @@ import About from './components/About.jsx';
 import Error from './components/Error.jsx';
 import Contact from './components/Contactform.jsx';
 import Portfolio from './components/Portfolio.jsx';
-import Resume from './components/Resume.jsx';
+
 
 const router = createBrowserRouter([
   {
@@ -26,10 +26,6 @@ const router = createBrowserRouter([
       {
         path: 'Contact',
         element: <Contact />,
-      },
-      {
-        path: 'Resume',
-        element: <Resume />,
       },
       {
         path: '/',

@@ -1,5 +1,6 @@
 import React from 'react';
 import '../style/about.css';
+import Profile from '../path/to/profile.jpg'; // Update the path to the correct location of your profile image
 
 const About = () => (
     <div>
